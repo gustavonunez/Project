@@ -93,6 +93,21 @@ abline(h=c(-1,1), col="blue")
 
 ![plot](../output/Rplot.jpg)
 
+### 6. Exporting significant values
+
+* Write a table with the significantly expressed contigs
+
+````
+write.table(tmp.sig, "./wd/Oyster_DESeq.tab", row.names = T)
+````
+* You can preview the table
+
+````
+!head ./wd/Phel_DEGlist.tab
+````
+
+
+
 
 
 
