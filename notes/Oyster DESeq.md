@@ -106,6 +106,7 @@ write.table(tmp.sig, "./wd/Oyster_DESeq.tab", row.names = T)
 !head ./wd/Phel_DEGlist.tab
 ````
 
+## Please download the files at the "output" directory. Also you can download the R console script in the "scripts" folder.
 
 
 
