@@ -108,7 +108,7 @@ write.table(tmp.sig, "./wd/Oyster_DESeq.tab", row.names = T)
 
 ## Please download the files at the "output" directory. Also you can download the R console script in the "scripts" folder.
 
-
+![topgenes](../output/C_gigas_heatshock_DESeq.pdf)
 
 
 
